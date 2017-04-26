@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VisualLightBox>
+    <Gallery version="2.5">
+        <Settings>
+            <AppName>WOW Slider</AppName>
+            <AppUrlS>WOWSlider.com</AppUrlS>
+            <AppVersion>8.7</AppVersion>
+            <AutoPlay>true</AutoPlay>
+            <AutoPlayVideo>false</AutoPlayVideo>
+            <Captions>true</Captions>
+            <CaptionsEffect>parallax</CaptionsEffect>
+            <Controls>true</Controls>
+            <FontSize>24</FontSize>
+            <FullScreen>false</FullScreen>
+            <GalleryName>visor-app3</GalleryName>
+            <GallerySuffix>1</GallerySuffix>
+            <HtmlCharset>UTF-8</HtmlCharset>
+            <ImageAspectRatio>true</ImageAspectRatio>
+            <ImageEffect>cube_over,dribbles</ImageEffect>
+            <ImageFillColor>#000000</ImageFillColor>
+            <ImageHeight>360</ImageHeight>
+            <ImageQuality>90</ImageQuality>
+            <ImageShrink2>false</ImageShrink2>
+            <ImageStretch>true</ImageStretch>
+            <ImageTemplate>C:/Program Files (x86)/WOW Slider/templates/backgnd/angular/</ImageTemplate>
+            <ImageTemplateName>Angular</ImageTemplateName>
+            <ImageWidth>640</ImageWidth>
+            <Images>true</Images>
+            <JoomlaType>2.5</JoomlaType>
+            <OneLoop>false</OneLoop>
+            <OrderRandom>false</OrderRandom>
+            <PlayPause>true</PlayPause>
+            <Preloader>false</Preloader>
+            <PublishFileName>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/wowslider.html</PublishFileName>
+            <PublishIndex>wowslider.html</PublishIndex>
+            <PublishPath>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3</PublishPath>
+            <PublishPreview>true</PublishPreview>
+            <PublishType>file</PublishType>
+            <RelativePath>false</RelativePath>
+            <ShowBullets>1</ShowBullets>
+            <ShowControls>false</ShowControls>
+            <ShowTooltips>1</ShowTooltips>
+            <SizeStyle>1</SizeStyle>
+            <SlideshowDelay>20</SlideshowDelay>
+            <SlideshowDuration>20</SlideshowDuration>
+            <SoundEnable>0</SoundEnable>
+            <SoundFileName></SoundFileName>
+            <StopOnHover>false</StopOnHover>
+            <SwipeSupport>2</SwipeSupport>
+            <TemplateColor>#5f32a3</TemplateColor>
+            <TemplateFont>Play</TemplateFont>
+            <TemplateName>angular</TemplateName>
+            <ThumbAlign>bottom</ThumbAlign>
+            <ThumbFormat>jpg</ThumbFormat>
+            <ThumbHeight>48</ThumbHeight>
+            <ThumbQuality>90</ThumbQuality>
+            <ThumbWidth>0</ThumbWidth>
+            <Thumbnails>false</Thumbnails>
+            <TooltipPos>bottom</TooltipPos>
+            <noFrame>0</noFrame>
+        </Settings>
+        <Images RelativePath="false">
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/asp.net por.jpg</url>
+                <title>asp.net por</title>
+                <filesize>31949</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/comunicaciones y redes de computadoras.png</url>
+                <title>comunicaciones y redes de computadoras</title>
+                <filesize>224244</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/estructura de datos port.jpg</url>
+                <title>estructura de datos port</title>
+                <filesize>198037</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/fundamentos de redes por.jpg</url>
+                <title>fundamentos de redes por</title>
+                <filesize>30217</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/java como programar port.jpg</url>
+                <title>java como programar port</title>
+                <filesize>384753</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/mantenimiento_reparacion_computadoras port.jpg</url>
+                <title>mantenimiento_reparacion_computadoras port</title>
+                <filesize>133773</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/programacion avanzada.jpg</url>
+                <title>programacion avanzada</title>
+                <filesize>10005</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/programacion con java port.jpg</url>
+                <title>programacion con java port</title>
+                <filesize>5259</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/redes de computadoras por.png</url>
+                <title>redes de computadoras por</title>
+                <filesize>119189</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/sistemas operativos.png</url>
+                <title>sistemas operativos</title>
+                <filesize>18758</filesize>
+            </Image>
+            <Image>
+                <url>J:/Nueva carpeta/DAM/SEGUNDO PARCIAL/Aplicaciones/app3/imagenes/Visual C#.jpg</url>
+                <title>Visual C#</title>
+                <filesize>114644</filesize>
+            </Image>
+        </Images>
+    </Gallery>
+</VisualLightBox>
